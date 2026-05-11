@@ -28,6 +28,109 @@ common:
     url: https://www.oomnitza.com
   - type: Documentation
     url: https://docs.oomnitza.com/
+  - type: Integrations
+    url: https://www.oomnitza.com/integrations/
+integrations:
+  - name: Oomnitza + Zendesk
+  - name: 15Five
+  - name: Absolute
+  - name: ActiveCampaign
+  - name: Adobe
+  - name: Aha!
+  - name: Amazon QuickSight
+  - name: Asana
+  - name: atSpoke
+  - name: Automox
+  - name: Bamboo HR
+  - name: Betterworks
+  - name: Box
+  - name: Brex
+  - name: Calendly
+  - name: CDW
+  - name: Chef
+  - name: Cisco Jasper
+  - name: Cisco Meraki
+  - name: Cisco Webex
+  - name: Citrix
+  - name: Conga
+  - name: Connection Enterprise Solutions
+  - name: ConnectWise
+  - name: CS DISCO
+  - name: Cylance
+  - name: DataDog
+  - name: Degreed
+  - name: Device 42
+  - name: Digicert
+  - name: Digital Ocean
+  - name: Docusign
+  - name: Dropbox
+  - name: Druva
+  - name: EasyVista
+  - name: FedEx
+  - name: Filemaker Pro
+  - name: FreshDesk
+  - name: Freshservice
+  - name: G Suite
+  - name: GitHub
+  - name: Gitlab
+  - name: Gong
+  - name: 'Have I Been Pwned?'
+  - name: Hexnode
+  - name: Hubspot
+  - name: HYPR
+  - name: Infoblox
+  - name: Infosec Institute
+  - name: Insight
+  - name: Intercom
+  - name: JetBrains
+  - name: Jira
+  - name: JumpCloud
+  - name: Kaseya
+  - name: Lansweeper
+  - name: LastPass
+  - name: Lattice
+  - name: Lever
+  - name: Litmos
+  - name: Lucidchart
+  - name: ManageEngine
+  - name: McAfee
+  - name: Mediafly
+  - name: Microsoft
+  - name: Microsoft Active Directory
+  - name: Microsoft Azure AD
+  - name: Microsoft Intune
+  - name: Microsoft SCCM
+  - name: Microsoft Visual Studio
+  - name: Microsoft Windows Autopilot
+  - name: Miro
+  - name: MobileIron
+  - name: Mosyle
+  - name: Netbox
+  - name: Netskope
+  - name: Netsuite
+  - name: New Relic
+  - name: NinjaOne
+  - name: Okta
+  - name: OneLogin
+  - name: PagerDuty
+  - name: Paylocity
+  - name: Ping Identity
+  - name: Pipedrive
+  - name: Postman
+  - name: Presidio
+  - name: Prometheus
+  - name: Puppet
+  - name: Qualys
+  - name: Quest KACE
+  - name: Quip
+  - name: Rapid7
+  - name: Retriever
+  - name: RFPIO
+  - name: Sage
+  - name: Salesforce
+  - name: SAML
+  - name: SAP
+  - name: SAP SuccessFactors
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
