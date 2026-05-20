@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://docs.oomnitza.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Oomnitza
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oomnitza
   - type: Website
     url: https://www.oomnitza.com
   - type: Documentation
