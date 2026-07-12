@@ -24,6 +24,8 @@ apis:
       - type: Documentation
         url: https://docs.oomnitza.com/
 common:
+  - type: DomainSecurity
+    url: security/oomnitza-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Oomnitza
   - type: LinkedIn
@@ -34,6 +36,8 @@ common:
     url: https://docs.oomnitza.com/
   - type: Integrations
     url: https://www.oomnitza.com/integrations/
+  - url: https://www.oomnitza.com/blog/feed/
+    type: Blog
 integrations:
   - name: Oomnitza + Zendesk
   - name: 15Five
