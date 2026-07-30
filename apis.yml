@@ -3,7 +3,19 @@ name: Oomnitza
 description: >-
   Oomnitza is an enterprise technology management platform providing IT asset lifecycle management, SaaS management, and technology workflow automation.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oomnitza.png
 tags:
   - IT Asset Management
   - SaaS Management
