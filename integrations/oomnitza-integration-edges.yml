@@ -2,6 +2,7 @@ generated: '2026-10-14'
 method: searched
 checked:
 - https://marketplace.atlassian.com/
+- zendesk/integrations/zendesk-integration-edges.yml
 marketplace_apps: []
 edges:
 - partner_name: Atlassian Marketplace
@@ -20,5 +21,22 @@ edges:
   publisher_name: Oomnitza
   detected_by: sweep-devtools.py
   detected: '2026-10-14'
+- partner_name: Zendesk (own)
+  partner: zendesk
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.zendesk.com/marketplace/apps/support/27186/it-asset-management-by-oomnitza/
+  mirror_of: zendesk/integrations/zendesk-integration-edges.yml
+  apps:
+  - IT Asset Management by Oomnitza
+  listing_count: 1
+  detected: '2026-10-20'
+  detected_by: mirror-platform-listings.py
+  category: IT and HR
 source:
 - https://marketplace.atlassian.com/
